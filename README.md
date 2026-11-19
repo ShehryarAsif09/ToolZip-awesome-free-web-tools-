@@ -51,6 +51,7 @@ These sites aggregate many tools in one place — good for bookmarking as a firs
 | Tool | Description |
 |------|-------------|
 | JSON Formatter | Validate and pretty-print JSON |
+| [BestJSON](https://bestjson.com/) | Format, validate, repair and compare JSON locally |
 | Base64 Encoder/Decoder | Encode or decode Base64 strings |
 | URL Encoder/Decoder | Encode special characters for URLs |
 | JWT Decoder | Decode JSON Web Tokens without a library |
